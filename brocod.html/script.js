@@ -1,14 +1,5 @@
-var a=document.getElementById("demo");
+var a=document.getElementById("head");
 
-
-
-  function divShow(){
-    a.style.display="block";
-  }
-  var b=document.getElementById("demo-one");
-  function divShowOne(){
-    b.style.display="block";
-  }
-  
-
-
+function fcn(){
+  a.style.display="none";
+}
